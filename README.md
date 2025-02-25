@@ -1,6 +1,8 @@
 # LLM Code (Open Claude Code)
 
-> ⚠️ This project is currently under active development and in its early stages.
+> ⚠️ This project is currently under active development and in its early stages. LLM Code is using LLM Code to build it self.
+
+<img width="485" alt="LLMCode" src="https://github.com/user-attachments/assets/7d621bae-dc4a-4ceb-ad97-2fb3a6dc8249" />
 
 LLM Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. This tool integrates directly with your development environment, allowing you to edit files, navigate directories, and interact with an AI assistant.
 
