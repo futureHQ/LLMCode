@@ -1,6 +1,6 @@
 # LLM Code (Open Claude Code)
 
-> ⚠️ This project is currently under active development and in its early stages. LLM Code is using LLM Code to build it self.
+> ⚠️ This project is currently under active development and in its early stages. LLM Code is using LLM Code to build itself.
 
 <img width="485" alt="LLMCode" src="https://github.com/user-attachments/assets/7d621bae-dc4a-4ceb-ad97-2fb3a6dc8249" />
 
