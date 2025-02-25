@@ -6,6 +6,10 @@ LLM Code is an agentic coding tool that lives in your terminal, understands your
 
 Inspired by Anthropic's Claude Code, this project aims to provide a similar interactive coding experience while being open-source and customizable.
 
+## DEMO
+
+https://github.com/user-attachments/assets/f9f762f2-811f-4936-b75b-f3ba3d3282e2
+
 ## Features
 
 - 🤖 Interactive AI coding assistant
