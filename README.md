@@ -19,8 +19,8 @@ Inspired by Anthropic's Claude Code, this project aims to provide a similar inte
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/llmcode.git
-cd llmcode
+git clone https://github.com/futureHQ/LLMCode.git
+cd LLMCode
 ```
 
 2. Install dependencies:
