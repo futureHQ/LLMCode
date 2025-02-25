@@ -1,4 +1,4 @@
-# LLM Code
+# LLM Code (Open Claude Code)
 
 > ⚠️ This project is currently under active development and in its early stages.
 
